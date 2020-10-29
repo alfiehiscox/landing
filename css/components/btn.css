@@ -1,0 +1,15 @@
+.btn-sign-up {
+ text-align: center;
+ width: 130px;
+ margin: 1px;
+ border-radius: 10px;
+ color: white;
+ background-color: #FF773D;
+ padding: 10px 15px;
+}
+
+
+.btn-sign-up:hover {
+  background-color: #F55536;
+  transition: 1s;
+}

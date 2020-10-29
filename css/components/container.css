@@ -1,0 +1,45 @@
+.container {
+  width: 750px;
+  margin: 0 auto;
+}
+
+.container-lg {
+  width: 850px;
+  margin: 50px auto;
+}
+
+.container-xlg {
+  width: 900px;
+  margin: 50px auto;
+}
+
+.container-lg h2 {
+  text-align: center;
+}
+
+.team-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.team-info {
+  width: 600px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.social-container {
+  width: 850px;
+  margin: 50px auto;
+}
